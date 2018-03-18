@@ -13,7 +13,7 @@ In this project, the network assets are hidden from the external and internal at
 Developed an self learning algorithm to attain automation. 
 
 # Detailed Algorithm
-The main aim of the project was to prevent IP scanning, by having a dynamic address allocation.
+1. The main aim of the project was to prevent IP scanning, by having a dynamic address allocation.
 2. In this scheme Each host in the network has 2 addresses, one being real & other being virtual.
 3. Communication between real IP address is blocked & allows only communication on virtual Ip addresses.
 4. So even If an attacker gets the information about the target, it gets changed after a certain time out.
